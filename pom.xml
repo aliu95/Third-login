@@ -1,0 +1,8 @@
+        
+        
+        
+        <dependency>
+            <groupId>me.zhyd.oauth</groupId>
+            <artifactId>JustAuth</artifactId>
+            <version>1.12.0</version>
+        </dependency>
